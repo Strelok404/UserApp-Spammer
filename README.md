@@ -1,5 +1,5 @@
 # UserApp-Spammer
-A Discord UserApp Spammer
+A Discord UserApp Spammer -
 Version: v1
 ### TrojanSquad 0n Top
 Server: https://discord.gg/9xKcSxzP7K
